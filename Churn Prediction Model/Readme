@@ -1,5 +1,5 @@
 Customer churn is an important factor that affects the revenue, market share, and operational cost of a company. This makes it important for a company to understand patterns in customer churn in order to work on customer retention policies. This project aims to develop a predictive model to identify customers who are likely to churn, enabling the company to proactively engage and retain the customers who are likely to churn through possible interventions.
-Scope of the project:
+# Scope of the project:
 •	Understand the key drivers of churn.
 •	Build an ML model using historical data to predict the likelihood of churn.
 •	Provide actionable insights to reduce churn rate
