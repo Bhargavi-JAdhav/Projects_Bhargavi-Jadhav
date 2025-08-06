@@ -1,2 +1,3 @@
 In safety-critical industrial machinery, bearing faults are a leading cause of mechanical failures, resulting in downtime, reduced productivity, and potential hazards. Early detection of bearing faults, along with severity assessment, is essential for implementing predictive maintenance strategies.
-Traditional methods are often inadequate in identifying early-stage faults or quantifying severity. Hence, a datadriven approach using machine learning is required to enhance and automate the diagnosis
+Traditional methods are often inadequate in identifying early-stage faults or quantifying severity. Hence, a data-driven approach using machine learning is required to enhance and automate the diagnosis
+The data was taken from https://engineering.case.edu/bearingdatacenter/12k-drive-end-bearing-fault-data
