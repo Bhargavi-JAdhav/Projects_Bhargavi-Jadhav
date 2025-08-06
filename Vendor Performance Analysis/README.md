@@ -4,3 +4,5 @@ Effective inventory and sales management are critical for optimizing profitabili
 3.	Determine top brands contributing to sales.
 4.	Identify the maximum contributing vendors.
 5.	Getting insights into inventory management through key indicators.
+
+The data was taken from here: https://drive.google.com/file/d/1fEip6h-rMCVc9nNBnTJz4z70I8lmVwEA/view?usp=drive_link
